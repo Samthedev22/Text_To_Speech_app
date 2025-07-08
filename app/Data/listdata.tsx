@@ -1,0 +1,73 @@
+
+export const ttsData = [
+    {
+    id: '1',
+    title: 'Motivational Quote',
+    text: 'Believe you can and you are halfway there.',
+    voice: 'default',
+    language: 'en-US',
+  },
+  {
+    id: '2',
+    title: 'Daily Reminder',
+    text: 'Drink water and take a short walk.',
+    voice: 'default',
+    language: 'en-US',
+  },
+  {
+    id: '3',
+    title: 'Spanish Greeting',
+    text: '¡Hola! ¿Cómo estás?',
+    voice: 'default',
+    language: 'es-ES',
+  },
+  {
+    id: '4',
+    title: 'French Phrase',
+    text: 'Bonjour, je m\'appelle Marie.',
+    voice: 'default',
+    language: 'fr-FR',
+  },
+  {
+    id: '5',
+    title: 'Workout Timer',
+    text: 'Get ready to start your workout in 3, 2, 1...',
+    voice: 'default',
+    language: 'en-GB',
+  },
+  {
+    id: '6',
+    title: 'Bedtime Story Line',
+    text: 'Once upon a time, in a land far, far away...',
+    voice: 'default',
+    language: 'en-US',
+  },
+  {
+    id: '7',
+    title: 'Joke',
+    text: 'Why don’t scientists trust atoms? Because they make up everything!',
+    voice: 'default',
+    language: 'en-US',
+  },
+  {
+    id: '8',
+    title: 'Weather Update',
+    text: 'Today is sunny with a high of 25 degrees.',
+    voice: 'default',
+    language: 'en-GB',
+  },
+  {
+    id: '9',
+    title: 'Affirmation',
+    text: 'I am calm, I am strong, I am in control.',
+    voice: 'default',
+    language: 'en-US',
+  },
+  {
+    id: '10',
+    title: 'Reminder',
+    text: 'Don’t forget to call mom.',
+    voice: 'default',
+    language: 'en-US',
+  },
+];
